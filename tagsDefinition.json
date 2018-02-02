@@ -1,0 +1,10 @@
+{
+ "tagsPorBit": {
+    "3" :   {"bit": 3,    "formato":"n6",         "nome": "CodProcessamento"},
+    "4" :   {"bit": 4,    "formato":"n12",        "nome": "ValorTransacao"},
+    "7" :   {"bit": 7,    "formato":"n10",        "nome": "DataTransacao"},
+    "11":   {"bit": 11,   "formato":"n6",         "nome": "NumRastreamento"},
+    "44":   {"bit": 44,   "formato":"an..25",     "nome": "DadosAdicionaisResposta"}, 
+    "105":  {"bit": 105,  "formato":"ans...999",  "nome": "ReservadoISO"}
+ }       
+}

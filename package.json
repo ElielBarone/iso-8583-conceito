@@ -1,6 +1,9 @@
 {
 	"scripts": {
-		"test": "ava"
+		"test:all" : "ava ./04-mti-bitmap-de.test.js",
+		"test:mti": "ava ./01-mti.test.js",
+		"test:bitmap": "ava ./02-bitmap.test.js",
+		"test:de": "ava ./03-de.test.js"
 	},
 	"devDependencies": {
 		"ava": "^0.25.0"
