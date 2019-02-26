@@ -1,0 +1,22 @@
+{
+  "name": "iso-8583-conceito",
+  "description": "Conceitos básicos para aprendizado do padrão iso 8583",
+  "main": "01-mti-test.js",
+  "authors": [
+    "Eliel <eliel_barone@hotmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "iso",
+    "8583"
+  ],
+  "homepage": "https://github.com/ElielBarone/iso-8583-conceito",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
